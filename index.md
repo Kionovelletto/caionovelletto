@@ -1,5 +1,7 @@
 ## Olá, seja bem vindo(a)!
 
+Este é minha primeira página no Github, estou aproveitando para construir e estudar o Git :)
+
 You can use the [editor on GitHub](https://github.com/Kionovelletto/caionovelletto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,8 +16,8 @@ echo "Meu primeiro site no GitHub"
 head
 
 # Estudando o Git + Github
-## Header 2
-### Header 3
+## Testando a página no git
+### Exercitando os comandos
 
 - Bulleted
 - List
