@@ -1,4 +1,4 @@
-## Olá, seja bem vindo(a)!
+## Olá, seja bem-vindo(a)!
 
 Este é minha primeira página no Github, estou aproveitando para construir e estudar o Git :)
 
@@ -26,6 +26,7 @@ head
 2. List
 
 **Bold** and _Italic_ and `Code` text
+`Testando tag`
 
 [Link](url) and ![Image](src)
 ```
