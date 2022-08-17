@@ -9,9 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+#!/bin/bash
+echo "Meu primeiro site no GitHub"
+head
 
-# Header 1
+# Estudando o Git + Github
 ## Header 2
 ### Header 3
 
